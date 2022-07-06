@@ -20,7 +20,7 @@ quantity = data['results'][0]
     "WO:":"",
     "PART:":"",
     "MODEL:":"",
-    "QUANTITY:":"",
+    "QUANT:":"",
     " ":"",
     "SO:":"",
     "ledrgb":"ff00",
